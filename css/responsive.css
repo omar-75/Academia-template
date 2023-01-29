@@ -1,0 +1,515 @@
+@media (max-width: 1399.98px) {
+}
+
+@media (max-width: 1199.98px) {
+    .section-headding h2 {
+        font-size: 40px;
+    }
+    #counter_section .counter-item {
+        flex-direction: column;
+    }
+    #counter_section .counter-item i {
+        font-size: 50px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    #counter_section .counter-item .counter-text {
+        text-align: center;
+    }
+    #counter_section .counter-item .counter-text h2 {
+        color: var(--white-color);
+        font-size: 35px;
+        line-height: 42px;
+    }
+    #course_section .coursesItem .crousesTitle {
+        display: flex;
+        flex-direction: column !important;
+        align-items: center;
+        justify-content: center;
+    }
+    #course_section .coursesItem .crousesTitle .icon {
+        margin-bottom: 20px;
+    }
+    #course_section .coursesItem .crousesTitle h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #course_section .title {
+        width: auto;
+        padding-left: 0px;
+        text-align: center;
+    }
+    #course_section .review {
+        justify-content: center;
+    }
+    #course_section .coursesItem .author {
+        justify-content: center;
+    }
+}
+@media (max-width: 991.98px) {
+    h2 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    #about_section .about-right .section-headding h2 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .section-headding h2 {
+        font-size: 35px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    .section-padding {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .header-top .header-midel {
+        display: none;
+    }
+    nav#navbar {
+        top: 75px;
+        background: #22c8ba !important;
+        padding: 0;
+    }
+    #navbar .navbar-brand::before {
+        display: none;
+    }
+    .container,
+    .container-fluid,
+    .container-xl {
+        width: 100%;
+        padding-right: var(--bs-gutter-x, 0.75rem) !important;
+        padding-left: var(--bs-gutter-x, 0.75rem) !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    button.navbar-toggler {
+        border: 0;
+        border-bottom: 0;
+        box-shadow: none;
+        padding: 0;
+    }
+
+    button.navbar-toggler span i {
+        margin-right: 8px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+
+    button.navbar-toggler:focus {
+        outline: 0;
+        box-shadow: none;
+        border: 0;
+    }
+
+    button.navbar-toggler span {
+        font-size: 18px;
+        color: var(--white-color);
+    }
+
+    #navbar ul.navbar-nav {
+        padding: 20px 0px;
+    }
+    #navbar .navbar-nav li a {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 0;
+        margin-bottom: 12px;
+    }
+    #navbar .navbar-brand {
+        padding: 1.3rem;
+        width: 180px;
+        margin-right: 0px;
+    }
+    #hero_section {
+        padding-top: 170px;
+        padding-bottom: 80px;
+    }
+    .section-headding {
+        margin-bottom: 30px;
+    }
+    #counter_section .counter-item {
+        flex-direction: column;
+    }
+    #counter_section .counter-item i {
+        font-size: 50px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    #counter_section .counter-item .counter-text {
+        text-align: center;
+    }
+    #counter_section .counter-item .counter-text h2 {
+        color: var(--white-color);
+        font-size: 35px;
+        line-height: 42px;
+    }
+    #course_section .coursesItem .crousesTitle {
+        display: flex;
+        flex-direction: column;
+    }
+    #course_section .coursesItem .crousesTitle .icon {
+        margin-bottom: 20px;
+    }
+    #course_section .coursesItem .crousesTitle h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #course_section .title {
+        width: auto;
+        padding-left: 0px;
+    }
+    #newsletter_section form {
+        width: auto;
+    }
+}
+@media (max-width: 767.98px) {
+    h2 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    #about_section .about-right .section-headding h2 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .section-padding {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .section-headding h2 {
+        font-size: 30px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    .header-top .header-midel {
+        display: none;
+    }
+    nav#navbar {
+        top: 75px;
+        background: #22c8ba !important;
+        padding: 0;
+    }
+    #navbar .navbar-brand::before {
+        display: none;
+    }
+    .container,
+    .container-fluid,
+    .container-xl {
+        width: 100%;
+        padding-right: var(--bs-gutter-x, 0.75rem) !important;
+        padding-left: var(--bs-gutter-x, 0.75rem) !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    button.navbar-toggler {
+        border: 0;
+        border-bottom: 0;
+        box-shadow: none;
+        padding: 0;
+    }
+
+    button.navbar-toggler span i {
+        margin-right: 8px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+
+    button.navbar-toggler:focus {
+        outline: 0;
+        box-shadow: none;
+        border: 0;
+    }
+
+    button.navbar-toggler span {
+        font-size: 18px;
+        color: var(--white-color);
+    }
+
+    #navbar ul.navbar-nav {
+        padding: 20px 0px;
+    }
+    #navbar .navbar-nav li a {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 0;
+        margin-bottom: 12px;
+    }
+    #navbar .navbar-brand {
+        padding: 1.3rem;
+        width: 180px;
+        margin-right: 0px;
+    }
+    #counter_section .counter-item {
+        flex-direction: column;
+    }
+    #counter_section .counter-item i {
+        font-size: 50px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    #counter_section .counter-item .counter-text {
+        text-align: center;
+    }
+    #counter_section .counter-item .counter-text h2 {
+        color: var(--white-color);
+        font-size: 35px;
+        line-height: 42px;
+    }
+    #course_section .coursesItem .crousesTitle {
+        display: flex;
+        flex-direction: column !important;
+        align-items: center;
+        justify-content: center;
+    }
+    #course_section .coursesItem .crousesTitle .icon {
+        margin-bottom: 20px;
+    }
+    #course_section .coursesItem .crousesTitle h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #course_section .title {
+        width: auto;
+        padding-left: 0px;
+        text-align: center;
+    }
+    #course_section .review {
+        justify-content: center;
+    }
+    #course_section .coursesItem .author {
+        justify-content: center;
+    }
+    #online_course .section-headding {
+        margin-bottom: 0px;
+    }
+    #blog_section .section-headding {
+        margin-bottom: 0px;
+    }
+    .newsletter-left {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    #newsletter_section form {
+        width: auto;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 575.98px) {
+    h2 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    #about_section .about-right .section-headding h2 {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .section-padding {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    .header-top .header-midel {
+        display: none;
+    }
+    .header-top .social-link {
+        display: none;
+    }
+    nav#navbar {
+        top: 75px;
+        background: #22c8ba !important;
+        padding: 0;
+    }
+    #navbar .navbar-brand::before {
+        display: none;
+    }
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        --bs-gutter-x: 1.5rem;
+        --bs-gutter-y: 0;
+        width: 100%;
+        padding-right: calc(var(--bs-gutter-x) * 0.5) !important;
+        padding-left: calc(var(--bs-gutter-x) * 0.5) !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    /* span i {
+        border: 0;
+        outline: 0;
+        color: #fff;
+        font-size: 13px;
+    } */
+
+    button.navbar-toggler {
+        border: 0;
+        border-bottom: 0;
+        box-shadow: none;
+        padding: 0;
+    }
+
+    button.navbar-toggler span i {
+        margin-right: 8px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+
+    button.navbar-toggler:focus {
+        outline: 0;
+        box-shadow: none;
+        border: 0;
+    }
+
+    button.navbar-toggler span {
+        font-size: 18px;
+        color: var(--white-color);
+    }
+
+    #navbar ul.navbar-nav {
+        padding: 20px 0px;
+    }
+    #navbar .navbar-nav li a {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 0;
+        margin-bottom: 12px;
+    }
+    #navbar .navbar-brand {
+        padding: 1.3rem;
+        width: 180px;
+        margin-right: 0px;
+    }
+    #hero_section {
+        background-attachment: fixed;
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+    section#hero_section .banner-text .hero-btn a {
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin-right: 0px;
+        margin-top: 10px;
+    }
+    .hero-btn {
+        margin-top: 30px;
+    }
+
+    #counter_section .counter-item {
+        flex-direction: column;
+    }
+    #counter_section .counter-item i {
+        font-size: 50px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    #counter_section .counter-item .counter-text {
+        text-align: center;
+    }
+    #counter_section .counter-item .counter-text h2 {
+        color: var(--white-color);
+        font-size: 35px;
+        line-height: 42px;
+    }
+    #course_section .coursesItem .crousesTitle {
+        display: flex;
+        flex-direction: column;
+    }
+    #course_section .coursesItem .crousesTitle .icon {
+        margin-bottom: 20px;
+    }
+    #course_section .coursesItem .crousesTitle h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #course_section .title {
+        width: auto;
+        padding-left: 0px;
+    }
+    .section-headding h2 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+
+    #course_section .coursesItem {
+        margin-right: 0px;
+    }
+    #course_section .slick-dots {
+        bottom: -22px;
+    }
+    #course_section .slick-dots li button {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    #online_course .section-headding {
+        margin-bottom: 0px;
+    }
+    #testimonial_section .testimonial-item .testimonial-info {
+        flex-direction: column;
+    }
+    #testimonial_section .testimonial-item .testimonial-info .avtar-image {
+        margin-bottom: 25px;
+    }
+    #testimonial_section .testimonial-item .text {
+        text-align: center;
+    }
+    #blog_section .section-headding {
+        margin-bottom: 0px;
+    }
+    #blog_section .singleBlog .postDate {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #blog_section .singleBlog .postDate li {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+    #blog_section .singleBlog .postDate li i {
+        font-size: 12px;
+        padding-right: 6px;
+    }
+    #blog_section .singleBlog .postDate li:last-child {
+        margin-right: 0px;
+        margin-top: 5px;
+    }
+    #blog_section .singleBlog .blog-desc h3 {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    #newsletter_section form {
+        width: auto;
+        margin-top: 30px;
+    }
+    #newsletter_section form input {
+        width: 100%;
+    }
+    .newsletter-left {
+        text-align: center;
+    }
+    #newsletter_section h3 {
+        color: var(--white-color);
+        font-size: 20px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+}
